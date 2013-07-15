@@ -1,0 +1,28 @@
+{
+  "name": "mongo-counter",
+  "version": "0.0.0",
+  "description": "Create an auto incrementing field in mongodb",
+  "main": "src/index.coffee",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuelcabral/node-mongo-counter.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "auto-increment",
+    "counter",
+    "count"
+  ],
+  "author": "Manuel Cabral (m.cabral@digisfera.pt)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/manuelcabral/node-mongo-counter/issues"
+  }
+}
