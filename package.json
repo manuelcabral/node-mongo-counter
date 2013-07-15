@@ -1,6 +1,6 @@
 {
   "name": "mongo-counter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create an auto incrementing field in mongodb",
   "main": "src/index.coffee",
   "directories": {

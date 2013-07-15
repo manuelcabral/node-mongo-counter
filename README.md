@@ -2,6 +2,10 @@
 
 This module allows you to create a counter field using MongoDB
 
+## Installation
+
+    npm install mongo-counter
+
 ## Usage
 
     mongoCounter = new MongoCounter(db, [collectionName], [documentID], [fieldName], [initialValue])
