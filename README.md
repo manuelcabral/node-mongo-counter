@@ -1,5 +1,7 @@
 # node-mongo-counter
 
+[![Build Status](https://travis-ci.org/manuelcabral/node-mongo-counter.png?branch=master)](https://travis-ci.org/manuelcabral/node-mongo-counter)
+
 This module allows you to create a counter field using MongoDB
 
 ## Installation
